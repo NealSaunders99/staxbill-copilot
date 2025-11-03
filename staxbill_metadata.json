@@ -1,0 +1,970 @@
+[
+  {
+    "title": "Creating Products",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7351312532243"
+  },
+  {
+    "title": "Posted Invoices Grid - Overview",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373920481299-Posted-Invoices-Grid-Overview"
+  },
+  {
+    "title": "Search for Posted Invoices",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373931050771-Search-for-Posted-Invoices"
+  },
+  {
+    "title": "How to Make a One Time Invoice",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373835668115-How-to-Make-a-One-Time-Invoice"
+  },
+  {
+    "title": "Reissue Posted Invoices",
+    "url": "https://support.staxbill.com/hc/en-us/articles/40660995361683-Reissue-Posted-Invoices"
+  },
+  {
+    "title": "Export Posted or Draft Invoices Search Results",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373892098067-Export-Posted-or-Draft-Invoices-Search-Results"
+  },
+  {
+    "title": "Using a Reference Date on an Invoice",
+    "url": "https://support.staxbill.com/hc/en-us/articles/34615302754579-Using-a-Reference-Date-on-an-Invoice"
+  },
+  {
+    "title": "Credit Notes",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373822458131-Credit-Notes"
+  },
+  {
+    "title": "Accounts Receivable Aging",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373954578323-Accounts-Receivable-Aging"
+  },
+  {
+    "title": "Payment Status",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360036460774-Payment-Status"
+  },
+  {
+    "title": "Scheduling Payments for Invoices",
+    "url": "https://support.staxbill.com/hc/en-us/articles/9911813994131-Scheduling-Payments-for-Invoices"
+  },
+  {
+    "title": "Customer Account Status",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7624888137875-Customer-Account-Status"
+  },
+  {
+    "title": "Accounting Status",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7624879468179-Accounting-Status"
+  },
+  {
+    "title": "Accounts Receivable Ledger or AR Ledger",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7624876959763-Accounts-Receivable-Ledger-or-AR-Ledger"
+  },
+  {
+    "title": "Annual Recurring Revenue or ARR",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7624828443155-Annual-Recurring-Revenue-or-ARR"
+  },
+  {
+    "title": "Billing Periods",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7624826436627-Billing-Periods"
+  },
+  {
+    "title": "Terms of Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7624744393363-Terms-of-Stax-Bill"
+  },
+  {
+    "title": "Adding Subscriptions",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7320539750163"
+  },
+  {
+    "title": "Configuring Display Defaults",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8363084829459"
+  },
+  {
+    "title": "Customer Hierarchy",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7341998064019"
+  },
+  {
+    "title": "Creating a Limited Agent Role",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8363561345683"
+  },
+  {
+    "title": "Configuring Sales Tracking Codes",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8363011865747"
+  },
+  {
+    "title": "Setting Tracking Fields when Creating a Customer in HubSpot",
+    "url": "https://support.staxbill.com/hc/en-us/articles/11079988969747"
+  },
+  {
+    "title": "NetSuite - Stax Bill NetSuite Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005995149075"
+  },
+  {
+    "title": "Activating Subscriptions",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7320486196115"
+  },
+  {
+    "title": "Why was my partial refund issued as a full refund?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807832439955-Why-was-my-partial-refund-issued-as-a-full-refund"
+  },
+  {
+    "title": "Is it possible to store multiple payment methods for a single customer in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807800372371-Is-it-possible-to-store-multiple-payment-methods-for-a-single-customer-in-Stax-Bill"
+  },
+  {
+    "title": "How do I collect more than what is due?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807775190163-How-do-I-collect-more-than-what-is-due"
+  },
+  {
+    "title": "How do I collect in advance of an invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807772403603-How-do-I-collect-in-advance-of-an-invoice"
+  },
+  {
+    "title": "Why did my refund fail?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807693501331-Why-did-my-refund-fail"
+  },
+  {
+    "title": "How do I prevent Stax Bill automatically collecting from a customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807642089491-How-do-I-prevent-Stax-Bill-automatically-collecting-from-a-customer"
+  },
+  {
+    "title": "I made a mistake and refunded a Credit Card or ACH payment as Cash/Check/Direct Deposit, What do I do?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807626898195-I-made-a-mistake-and-refunded-a-Credit-Card-or-ACH-payment-as-Cash-Check-Direct-Deposit-What-do-I-do"
+  },
+  {
+    "title": "What does the \"Unknown\" status of a payment mean?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807623504147-What-does-the-Unknown-status-of-a-payment-mean"
+  },
+  {
+    "title": "How do I Export Payment Method Information?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7788559003795-How-do-I-Export-Payment-Method-Information"
+  },
+  {
+    "title": "How do I mark a paid payment unpaid?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360044737553-How-do-I-mark-a-paid-payment-unpaid"
+  },
+  {
+    "title": "How do I see customer refunds?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360020371934-How-do-I-see-customer-refunds"
+  },
+  {
+    "title": "How do I manually remove a payment method for a customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360025464993-How-do-I-manually-remove-a-payment-method-for-a-customer"
+  },
+  {
+    "title": "Do migrations support custom pricing?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7760051907859-Do-migrations-support-custom-pricing"
+  },
+  {
+    "title": "When migrating a subscription, can I make changes to the new subscription before completing the migration?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7760025091731-When-migrating-a-subscription-can-I-make-changes-to-the-new-subscription-before-completing-the-migration"
+  },
+  {
+    "title": "How do I check which account I'm using and what the account number is?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7759962280211-How-do-I-check-which-account-I-m-using-and-what-the-account-number-is"
+  },
+  {
+    "title": "Where are my Stax Bill bills and how do I pay Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7759968245779-Where-are-my-Stax-Bill-bills-and-how-do-I-pay-Stax-Bill"
+  },
+  {
+    "title": "GDPR - Stax Bill's Statement of Support",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7759902394643-GDPR-Stax-Bill-s-Statement-of-Support"
+  },
+  {
+    "title": "Customer Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375082922771"
+  },
+  {
+    "title": "Subscriptions Grid - Overview",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373506683795-Subscriptions-Grid-Overview"
+  },
+  {
+    "title": "Schedule a Subscription",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360026389534-Schedule-a-Subscription"
+  },
+  {
+    "title": "Search for Subscriptions",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373476212883-Search-for-Subscriptions"
+  },
+  {
+    "title": "Implementing Updates to Existing Subscriptions",
+    "url": "https://support.staxbill.com/hc/en-us/articles/9550672186899-Implementing-Updates-to-Existing-Subscriptions"
+  },
+  {
+    "title": "Export Subscription Search Results",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7373457684499-Export-Subscription-Search-Results"
+  },
+  {
+    "title": "Revenue Recognition",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7623379973651-Revenue-Recognition"
+  },
+  {
+    "title": "Revenue Recognition and ASC 606",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7623327214611-Revenue-Recognition-and-ASC-606"
+  },
+  {
+    "title": "Setting up your Catalog for Revenue Recognition",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7623272009107-Setting-up-your-Catalog-for-Revenue-Recognition"
+  },
+  {
+    "title": "Adding Products with Revenue Recognition to a Purchase",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7623264038419-Adding-Products-with-Revenue-Recognition-to-a-Purchase"
+  },
+  {
+    "title": "Reviewing Revenue Recognition",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7623244212499-Reviewing-Revenue-Recognition"
+  },
+  {
+    "title": "Revenue Recognition, Earning/Earned and Deferred Revenue in Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7623187185683-Revenue-Recognition-Earning-Earned-and-Deferred-Revenue-in-Stax-Bill"
+  },
+  {
+    "title": "On-deposit opening balances are not included in the Invoice Aging report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625358247955-On-deposit-opening-balances-are-not-included-in-the-Invoice-Aging-report"
+  },
+  {
+    "title": "Customer Invoice Settings shows does not display  account default settings",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625355317651-Customer-Invoice-Settings-shows-does-not-display-account-default-settings"
+  },
+  {
+    "title": "Cash Summary Report appears in Custom Report display",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625322208275-Cash-Summary-Report-appears-in-Custom-Report-display"
+  },
+  {
+    "title": "Billing period definition create page throws error",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625267636115-Billing-period-definition-create-page-throws-error"
+  },
+  {
+    "title": "Subscription product one time charges can not be changed after being set",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625282815379-Subscription-product-one-time-charges-can-not-be-changed-after-being-set"
+  },
+  {
+    "title": "Reversing charges on an invoice does not update credit note count",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625274470931-Reversing-charges-on-an-invoice-does-not-update-credit-note-count"
+  },
+  {
+    "title": "Credit Report in UI displays credits with incorrect date/time",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625231712531-Credit-Report-in-UI-displays-credits-with-incorrect-date-time"
+  },
+  {
+    "title": "Quantity changed during import results in data loss",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625256189715-Quantity-changed-during-import-results-in-data-loss"
+  },
+  {
+    "title": "Report discrepancy between basic and FCD report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625190392595-Report-discrepancy-between-basic-and-FCD-report"
+  },
+  {
+    "title": "Scheduled reports are sent hourly in certain time zones",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625174655123-Scheduled-reports-are-sent-hourly-in-certain-time-zones"
+  },
+  {
+    "title": "Discounts are not applied to the first invoice on migrated subscriptions",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625110064659-Discounts-are-not-applied-to-the-first-invoice-on-migrated-subscriptions"
+  },
+  {
+    "title": "Credit notes are not sorted",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625113706387-Credit-notes-are-not-sorted"
+  },
+  {
+    "title": "Imported payments are not being properly allocated to outstanding invoices",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625044277011-Imported-payments-are-not-being-properly-allocated-to-outstanding-invoices"
+  },
+  {
+    "title": "Embedded iFrames in Self Service Portals",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625037470611-Embedded-iFrames-in-Self-Service-Portals"
+  },
+  {
+    "title": "Scheduling Email Communication Reports",
+    "url": "https://support.staxbill.com/hc/en-us/articles/15006508611091-Scheduling-Email-Communication-Reports"
+  },
+  {
+    "title": "Overview of Reports",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375367362835-Overview-of-Reports"
+  },
+  {
+    "title": "AR Balance Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375271768595-AR-Balance-Report"
+  },
+  {
+    "title": "Using the Audit Log Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375220988819-Using-the-Audit-Log-Report"
+  },
+  {
+    "title": "Calendar Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375209753875-Calendar-Report"
+  },
+  {
+    "title": "Cash Summary Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375222216083-Cash-Summary-Report"
+  },
+  {
+    "title": "Collections Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375095575699-Collections-Report"
+  },
+  {
+    "title": "Credit Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375076383635-Credit-Report"
+  },
+  {
+    "title": "Customer Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375082922771-Customer-Report"
+  },
+  {
+    "title": "Custom Report Management",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375064624403-Custom-Report-Management"
+  },
+  {
+    "title": "Deferred Revenue Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7375037714323-Deferred-Revenue-Report"
+  },
+  {
+    "title": "Earned Revenue Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374969484179-Earned-Revenue-Report"
+  },
+  {
+    "title": "Historical Daily Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374933271699-Historical-Daily-Report"
+  },
+  {
+    "title": "Invoice Aging",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374928246163-Invoice-Aging"
+  },
+  {
+    "title": "Invoice Summary",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374876629011-Invoice-Summary"
+  },
+  {
+    "title": "Ledgers Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374895559315-Ledgers-Report"
+  },
+  {
+    "title": "Migrations Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374866066451-Migrations-Report"
+  },
+  {
+    "title": "MRR Summary",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374814939283-MRR-Summary"
+  },
+  {
+    "title": "Opening Balance Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374796851347-Opening-Balance-Report"
+  },
+  {
+    "title": "Projected Daily Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374781517715-Projected-Daily-Report"
+  },
+  {
+    "title": "Reconciliation Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374756492051-Reconciliation-Report"
+  },
+  {
+    "title": "Revenue Summary",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374724812435-Revenue-Summary"
+  },
+  {
+    "title": "Sales by Activation Cohort",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374708325395-Sales-by-Activation-Cohort"
+  },
+  {
+    "title": "Sales Summary",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374623647891-Sales-Summary"
+  },
+  {
+    "title": "Subscriptions Overview Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374604811027-Subscriptions-Overview-Report"
+  },
+  {
+    "title": "Subscription Reports by Plan and Product",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374562471571-Subscription-Reports-by-Plan-and-Product"
+  },
+  {
+    "title": "Taxes Payable Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374504423699-Taxes-Payable-Report"
+  },
+  {
+    "title": "Gateway Report",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374431246611-Gateway-Report"
+  },
+  {
+    "title": "Reconciling with Avalara",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7374421532691-Reconciling-with-Avalara"
+  },
+  {
+    "title": "Creating and Managing Customers",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7193084141459"
+  },
+  {
+    "title": "Unified Invoices",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7343236505107"
+  },
+  {
+    "title": "Payment Method Sharing",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7342372534163"
+  },
+  {
+    "title": "Webhooks Overview",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815272749715-Webhooks-Overview"
+  },
+  {
+    "title": "Configuring Webhooks",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815211088915-Configuring-Webhooks"
+  },
+  {
+    "title": "Transparent Redirect",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815214997139-Transparent-Redirect"
+  },
+  {
+    "title": "Installing the Stax Bill Salesforce Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987110702099"
+  },
+  {
+    "title": "Verifying the Stax Bill's Salesforce Package Version",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987041499027"
+  },
+  {
+    "title": "Updating Your Salesforce Package",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7986992333075"
+  },
+  {
+    "title": "Configuring the Account and Related List Layouts in Salesforce (Lightning)",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987353676947"
+  },
+  {
+    "title": "Configuring  the Opportunity Page Layout (Lightning)",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987311713299"
+  },
+  {
+    "title": "Setting up your Salesforce Domain (Lightning)",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987337351699"
+  },
+  {
+    "title": "Synchronizing the Stax Bill Catalog with Salesforce",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987746559891"
+  },
+  {
+    "title": "Using Stax Bill and Salesforce",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7987766101011"
+  },
+  {
+    "title": "Avalara Prerequisites",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814902818195-Avalara-Prerequisites"
+  },
+  {
+    "title": "Configuring Avalara",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814895260435-Configuring-Avalara"
+  },
+  {
+    "title": "Avalara Companies",
+    "url": "https://support.staxbill.com/hc/en-us/articles/30441233398035-Avalara-Companies"
+  },
+  {
+    "title": "Using Search in Avalara",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814827141523-Using-Search-in-Avalara"
+  },
+  {
+    "title": "Troubleshooting Avalara",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814821459475-Troubleshooting-Avalara"
+  },
+  {
+    "title": "Digital River",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815171591699-Digital-River"
+  },
+  {
+    "title": "Connecting Stax Bill to Digital River",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815101478419-Connecting-Stax-Bill-to-Digital-River"
+  },
+  {
+    "title": "Configuring the Digital River Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815052870547-Configuring-the-Digital-River-Integration"
+  },
+  {
+    "title": "Using the Digital River Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815088210707-Using-the-Digital-River-Integration"
+  },
+  {
+    "title": "Troubleshooting the Digital River Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7815025756691-Troubleshooting-the-Digital-River-Integration"
+  },
+  {
+    "title": "Troubleshooting Quickbooks",
+    "url": "https://support.staxbill.com/hc/en-us/articles/25222947372563"
+  },
+  {
+    "title": "QuickBooks Product Entity Mappings",
+    "url": "https://support.staxbill.com/hc/en-us/articles/19827366677651"
+  },
+  {
+    "title": "Configuring the QuickBooks Online Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7983343719955"
+  },
+  {
+    "title": "Setting up your QuickBooks Online Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7983254770067"
+  },
+  {
+    "title": "Verifying NetSuite Prerequisites",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005692014995"
+  },
+  {
+    "title": "Installing the Stax Bill NetSuite Integration",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005698100243"
+  },
+  {
+    "title": "Upgrading the NetSuite Stax Bill Integration Managed Bundle",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005694856851"
+  },
+  {
+    "title": "1. Create a NetSuite Role and User",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005959050771"
+  },
+  {
+    "title": "2. Generating a NetSuite Access Token ID",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005909741331"
+  },
+  {
+    "title": "3. Setting up Tax Codes, Groups and Schedules",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005882610451"
+  },
+  {
+    "title": "6. Connecting Stax Bill to NetSuite",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005864060563"
+  },
+  {
+    "title": "5. Setting the Stax Bill Location Entity",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005889782035"
+  },
+  {
+    "title": "4. Creating NetSuite Item Entities",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005902534675"
+  },
+  {
+    "title": "7. Creating Entity Mapping in Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005839566739"
+  },
+  {
+    "title": "8. Configuring Field Mappings in Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005817823635"
+  },
+  {
+    "title": "9. Configuring Product Mappings between Stax Bill and NetSuite",
+    "url": "https://support.staxbill.com/hc/en-us/articles/8005788822931"
+  },
+  {
+    "title": "Configuring your Settings",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626461553171-Configuring-your-Settings"
+  },
+  {
+    "title": "Branding Your Account",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626390558995-Branding-Your-Account"
+  },
+  {
+    "title": "Setting a Time Zone",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626421551891-Setting-a-Time-Zone"
+  },
+  {
+    "title": "Setting a Payment Processing Gateway",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626397284115-Setting-a-Payment-Processing-Gateway"
+  },
+  {
+    "title": "Configuring Default Billing Settings",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626272749203-Configuring-Default-Billing-Settings"
+  },
+  {
+    "title": "Setting Taxation Requirements",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626240670099-Setting-Taxation-Requirements"
+  },
+  {
+    "title": "Configuring Invoice Layouts",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626223201427-Configuring-Invoice-Layouts"
+  },
+  {
+    "title": "Customizing the Stax Bill Display",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626203869075-Customizing-the-Stax-Bill-Display"
+  },
+  {
+    "title": "Setting Currencies",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626169821587-Setting-Currencies"
+  },
+  {
+    "title": "Using Sales Tracking Codes",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626164586131-Using-Sales-Tracking-Codes"
+  },
+  {
+    "title": "Adding Users to Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626176049555-Adding-Users-to-Stax-Bill"
+  },
+  {
+    "title": "Adding Customers, Subscriptions, and Products into Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626893283219-Adding-Customers-Subscriptions-and-Products-into-Stax-Bill"
+  },
+  {
+    "title": "Adding Stax Bill Customers",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626884704787-Adding-Stax-Bill-Customers"
+  },
+  {
+    "title": "(Optional) Customer Hierarchy and other Special Cases",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626872247827--Optional-Customer-Hierarchy-and-other-Special-Cases"
+  },
+  {
+    "title": "Adding Subscriptions to Customers",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626809218067-Adding-Subscriptions-to-Customers"
+  },
+  {
+    "title": "Activating Customers",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626800291731-Activating-Customers"
+  },
+  {
+    "title": "Creating a Catalog",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626535227283-Creating-a-Catalog"
+  },
+  {
+    "title": "Creating Products",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626581876627-Creating-Products"
+  },
+  {
+    "title": "Adding Plans to your Catalog",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626556696339-Adding-Plans-to-your-Catalog"
+  },
+  {
+    "title": "Adding Products to Plans",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626553877779-Adding-Products-to-Plans"
+  },
+  {
+    "title": "(Optional) Plan Families",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626485404435--Optional-Plan-Families"
+  },
+  {
+    "title": "Stax Bill Subscription Billing",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626078744723-Stax-Bill-Subscription-Billing"
+  },
+  {
+    "title": "Signing into Stax Bill",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7626012726035-Signing-into-Stax-Bill"
+  },
+  {
+    "title": "Stax Bill Orientation",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7625973649811-Stax-Bill-Orientation"
+  },
+  {
+    "title": "Country Code API List",
+    "url": "https://support.staxbill.com/hc/en-us/articles/15480693463187-Country-Code-API-List"
+  },
+  {
+    "title": "Can I transfer a subscription between customers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814279787539-Can-I-transfer-a-subscription-between-customers"
+  },
+  {
+    "title": "If I change my bank information for collections with my gateway, do I need to change anything with Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814246163731-If-I-change-my-bank-information-for-collections-with-my-gateway-do-I-need-to-change-anything-with-Stax-Bill"
+  },
+  {
+    "title": "How do I get around Excel interpreting numbers (cutting off leading 0's, using scientific notation, reading dates)?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814230053267-How-do-I-get-around-Excel-interpreting-numbers-cutting-off-leading-0-s-using-scientific-notation-reading-dates"
+  },
+  {
+    "title": "Why didn't a recently unsuspended customer get billed?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814227671187-Why-didn-t-a-recently-unsuspended-customer-get-billed"
+  },
+  {
+    "title": "How do I how to turn on/off detail vs summary invoices?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814233760147-How-do-I-how-to-turn-on-off-detail-vs-summary-invoices"
+  },
+  {
+    "title": "Are customer notes visible to end customers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814208974611-Are-customer-notes-visible-to-end-customers"
+  },
+  {
+    "title": "Can I change a customer's currency?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814171544979-Can-I-change-a-customer-s-currency"
+  },
+  {
+    "title": "Why is a transaction voided in my gateway, but refunded in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814167763091-Why-is-a-transaction-voided-in-my-gateway-but-refunded-in-Stax-Bill"
+  },
+  {
+    "title": "Important information about our new Scanner functionality",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814113754899-Important-information-about-our-new-Scanner-functionality"
+  },
+  {
+    "title": "Can I edit an invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814116513427-Can-I-edit-an-invoice"
+  },
+  {
+    "title": "How do I check how many customers are on automatic collection?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814072105619-How-do-I-check-how-many-customers-are-on-automatic-collection"
+  },
+  {
+    "title": "How do I Add a second customer name to an account?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814089693331-How-do-I-Add-a-second-customer-name-to-an-account"
+  },
+  {
+    "title": "How do I find which version of taxation my account is using?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814021129747-How-do-I-find-which-version-of-taxation-my-account-is-using"
+  },
+  {
+    "title": "How do I change my statement header?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813979638035-How-do-I-change-my-statement-header"
+  },
+  {
+    "title": "How do I enter an address that has no Zip code, but has a postal code?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7814001563283-How-do-I-enter-an-address-that-has-no-Zip-code-but-has-a-postal-code"
+  },
+  {
+    "title": "How do I enable Single Sign On for Self Service Portals?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813972450579-How-do-I-enable-Single-Sign-On-for-Self-Service-Portals"
+  },
+  {
+    "title": "How do I change an expiry period on a customer's subscription?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813920801683-How-do-I-change-an-expiry-period-on-a-customer-s-subscription"
+  },
+  {
+    "title": "If I change between the versions of self service portal, do I need to create new login credentials for my customers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813911957779-If-I-change-between-the-versions-of-self-service-portal-do-I-need-to-create-new-login-credentials-for-my-customers"
+  },
+  {
+    "title": "Can address verification be turned off for WePay/Stax Bill Payments customers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813922446611-Can-address-verification-be-turned-off-for-WePay-Stax-Bill-Payments-customers"
+  },
+  {
+    "title": "Is there a maximum character limit for fields?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813884001939-Is-there-a-maximum-character-limit-for-fields"
+  },
+  {
+    "title": "Why is my customer's next billing date in the past?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7813855293331-Why-is-my-customer-s-next-billing-date-in-the-past"
+  },
+  {
+    "title": "Why does my customer see an additional $1 or $2 pending charge on their card?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7812842573971-Why-does-my-customer-see-an-additional-1-or-2-pending-charge-on-their-card"
+  },
+  {
+    "title": "Can I remove custom fields from a plan, subscription, or product?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7812839973395-Can-I-remove-custom-fields-from-a-plan-subscription-or-product"
+  },
+  {
+    "title": "How do I get a list of all charges or invoice line items on the account?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7812760032403-How-do-I-get-a-list-of-all-charges-or-invoice-line-items-on-the-account"
+  },
+  {
+    "title": "How do I change when a subscription recharges?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7809300915475-How-do-I-change-when-a-subscription-recharges"
+  },
+  {
+    "title": "How do I cancel a customer's subscription while allowing it to continue to the end of the period?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7809285942803-How-do-I-cancel-a-customer-s-subscription-while-allowing-it-to-continue-to-the-end-of-the-period"
+  },
+  {
+    "title": "Where do I find all transaction information in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7809239869587-Where-do-I-find-all-transaction-information-in-Stax-Bill"
+  },
+  {
+    "title": "How Does Stax Bill Calculate MRR?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/115000757233-How-Does-Stax-Bill-Calculate-MRR"
+  },
+  {
+    "title": "How do I turn off auto-post for a customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360042845953-How-do-I-turn-off-auto-post-for-a-customer"
+  },
+  {
+    "title": "How do I apply a discount to a customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360041692994-How-do-I-apply-a-discount-to-a-customer"
+  },
+  {
+    "title": "Why didn't my subscription product prorate?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360039496554-Why-didn-t-my-subscription-product-prorate"
+  },
+  {
+    "title": "How to add a discount to a subscription product",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360036788433-How-to-add-a-discount-to-a-subscription-product"
+  },
+  {
+    "title": "How do I set a subscription to stop billing in the future?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360031038193-How-do-I-set-a-subscription-to-stop-billing-in-the-future"
+  },
+  {
+    "title": "How do I model a free trial in Stax bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360022494113-How-do-I-model-a-free-trial-in-Stax-bill"
+  },
+  {
+    "title": "What happens when I expire a subscription with end of period charges?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360021400134-What-happens-when-I-expire-a-subscription-with-end-of-period-charges"
+  },
+  {
+    "title": "How do I undo a subscription cancellation?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360020811973-How-do-I-undo-a-subscription-cancellation"
+  },
+  {
+    "title": "Why did my scheduled subscription not activate on the date I selected?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/115010148507-Why-did-my-scheduled-subscription-not-activate-on-the-date-I-selected"
+  },
+  {
+    "title": "Can a subscription be re-activated after it has expired?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/115010462867-Can-a-subscription-be-re-activated-after-it-has-expired"
+  },
+  {
+    "title": "What does auto collect do? How does Automatic collection work in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784989228179-What-does-auto-collect-do-How-does-Automatic-collection-work-in-Stax-Bill"
+  },
+  {
+    "title": "How do I void an invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784966336403-How-do-I-void-an-invoice"
+  },
+  {
+    "title": "Why hasn't my posted invoice collected from the customer yet?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784946288659-Why-hasn-t-my-posted-invoice-collected-from-the-customer-yet"
+  },
+  {
+    "title": "Error \"Cannot process collection, no card data present; card was initially stored in an external vault\"",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784910248083-Error-Cannot-process-collection-no-card-data-present-card-was-initially-stored-in-an-external-vault"
+  },
+  {
+    "title": "Can I change what time billing is run in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784906917523-Can-I-change-what-time-billing-is-run-in-Stax-Bill"
+  },
+  {
+    "title": "Why did the taxes appear to be off by a few cents on an invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784854024979-Why-did-the-taxes-appear-to-be-off-by-a-few-cents-on-an-invoice"
+  },
+  {
+    "title": "Why did my subscription charges generate as ready instead of auto-posting?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784850506771-Why-did-my-subscription-charges-generate-as-ready-instead-of-auto-posting"
+  },
+  {
+    "title": "Can I reverse or undo a reversed charge on an invoice or reverse a voided invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784847535123-Can-I-reverse-or-undo-a-reversed-charge-on-an-invoice-or-reverse-a-voided-invoice"
+  },
+  {
+    "title": "How do I override the PO number that automatically appears on invoices?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784811483667-How-do-I-override-the-PO-number-that-automatically-appears-on-invoices"
+  },
+  {
+    "title": "How do I export a detailed list of posted invoices?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784808724371-How-do-I-export-a-detailed-list-of-posted-invoices"
+  },
+  {
+    "title": "Why is my customer's billing delayed?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784786951443-Why-is-my-customer-s-billing-delayed"
+  },
+  {
+    "title": "Why are my draft subscription products not showing on my draft invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784753094547-Why-are-my-draft-subscription-products-not-showing-on-my-draft-invoice"
+  },
+  {
+    "title": "I have a draft invoice with a charge that was prorated, is it too late to charge the full amount?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7784703025299-I-have-a-draft-invoice-with-a-charge-that-was-prorated-is-it-too-late-to-charge-the-full-amount"
+  },
+  {
+    "title": "Can I turn off proration at the subscription Level for single customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7782962220051-Can-I-turn-off-proration-at-the-subscription-Level-for-single-customer"
+  },
+  {
+    "title": "How do I renew an annual subscription at a higher amount?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7782899198867-How-do-I-renew-an-annual-subscription-at-a-higher-amount"
+  },
+  {
+    "title": "How Do I Reverse a Charge?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7782865459603-How-Do-I-Reverse-a-Charge"
+  },
+  {
+    "title": "What is the life-cycle of a subscription?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7782876911251-What-is-the-life-cycle-of-a-subscription"
+  },
+  {
+    "title": "How do I extend the days before suspension for all customers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7760190008851-How-do-I-extend-the-days-before-suspension-for-all-customers"
+  },
+  {
+    "title": "How do I find what changes to a customer took place over time?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7760164440083-How-do-I-find-what-changes-to-a-customer-took-place-over-time"
+  },
+  {
+    "title": "How do I set a purchase order on a customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360024203794-How-do-I-set-a-purchase-order-on-a-customer"
+  },
+  {
+    "title": "Can I delete a customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7760089329299-Can-I-delete-a-customer"
+  },
+  {
+    "title": "How does Stax Bill determine when a customer enters a \"Poor Standing\" status?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7760100176915-How-does-Stax-Bill-determine-when-a-customer-enters-a-Poor-Standing-status"
+  },
+  {
+    "title": "How do I add a product that can be used for purchases?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7777971908371-How-do-I-add-a-product-that-can-be-used-for-purchases"
+  },
+  {
+    "title": "When I change plan product pricing in the catalog, does it affect current subscribers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7777969113363-When-I-change-plan-product-pricing-in-the-catalog-does-it-affect-current-subscribers"
+  },
+  {
+    "title": "Why won't Stax Bill allow me to add a frequency to a Plan? / How do I reactivate a retired Plan frequency?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7777906491795-Why-won-t-Stax-Bill-allow-me-to-add-a-frequency-to-a-Plan-How-do-I-reactivate-a-retired-Plan-frequency"
+  },
+  {
+    "title": "I have added new products to my plan but I can’t seem to add them to my existing subscribers?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7777848744979-I-have-added-new-products-to-my-plan-but-I-can-t-seem-to-add-them-to-my-existing-subscribers"
+  },
+  {
+    "title": "When a plan is retired from the catalog, are customers who are currently subscribed to that plan affected?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7777828136851-When-a-plan-is-retired-from-the-catalog-are-customers-who-are-currently-subscribed-to-that-plan-affected"
+  },
+  {
+    "title": "Can I change a plan or product's code after they have been set?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/360020961713-Can-I-change-a-plan-or-product-s-code-after-they-have-been-set"
+  },
+  {
+    "title": "How do I resolve an unknown payment?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7808138266259-How-do-I-resolve-an-unknown-payment"
+  },
+  {
+    "title": "Does Stax Bill try a void transaction when refunding a payment?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7808134759699-Does-Stax-Bill-try-a-void-transaction-when-refunding-a-payment"
+  },
+  {
+    "title": "Can AVS for credit cards be disabled within Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7808054867987-Can-AVS-for-credit-cards-be-disabled-within-Stax-Bill"
+  },
+  {
+    "title": "What is a payment method validation?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7808066572563-What-is-a-payment-method-validation"
+  },
+  {
+    "title": "Why does the system continue to automatically collect for charges that I have refunded to my customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7808038989331-Why-does-the-system-continue-to-automatically-collect-for-charges-that-I-have-refunded-to-my-customer"
+  },
+  {
+    "title": "Failed Payment, Validation, or Refund error message [Reason for Failure: ...]",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807996130451-Failed-Payment-Validation-or-Refund-error-message-Reason-for-Failure"
+  },
+  {
+    "title": "Why did my ACH refund fail with a message suggesting the transaction is under review?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807992586003-Why-did-my-ACH-refund-fail-with-a-message-suggesting-the-transaction-is-under-review"
+  },
+  {
+    "title": "How do I view a customer's Payment Method information?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807974156947-How-do-I-view-a-customer-s-Payment-Method-information"
+  },
+  {
+    "title": "How do I fix a payment or credit that I misapplied or was automatically applied to an invoice?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807936324371-How-do-I-fix-a-payment-or-credit-that-I-misapplied-or-was-automatically-applied-to-an-invoice"
+  },
+  {
+    "title": "What is the correct process for completing a refund in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807911033363-What-is-the-correct-process-for-completing-a-refund-in-Stax-Bill"
+  },
+  {
+    "title": "How do I handle a chargeback in Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807908316179-How-do-I-handle-a-chargeback-in-Stax-Bill"
+  },
+  {
+    "title": "How do I record a payment that took place outside the Stax Bill platform?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807883112723-How-do-I-record-a-payment-that-took-place-outside-the-Stax-Bill-platform"
+  },
+  {
+    "title": "Can I collect payment on a cancelled customer?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807860455315-Can-I-collect-payment-on-a-cancelled-customer"
+  },
+  {
+    "title": "How do I issue a manual refund in Stax Bill Payments when I cannot do one within Stax Bill?",
+    "url": "https://support.staxbill.com/hc/en-us/articles/7807835860371-How-do-I-issue-a-manual-refund-in-Stax-Bill-Payments-when-I-cannot-do-one-within-Stax-Bill"
+  }
+]
