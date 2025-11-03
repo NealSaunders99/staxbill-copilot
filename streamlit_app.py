@@ -36,11 +36,20 @@ def retrieve_context(query, index, metadata, embedder, top_k=5):
 
 # Generate answer using GPT-4 Turbo
 def generate_answer(query, context):
-    prompt = f"You are a helpful assistant for Stax Bill. Use the context below to answer the question.\n\nContext:\n{context}\n\nQuestion: {query}\nAnswer:"
+    prompt = f"""
+You are a helpful assistant for Stax Bill. Only answer questions that are directly related to Stax Bill's products, services, implementation, or documentation.
+If the question is unrelated to Stax Bill, politely respond that you can only assist with Stax Bill-related topics.
+
+Context:
+{context}
+
+Question: {query}
+Answer:"""
+
     response = openai.chat.completions.create(
         model="gpt-4-1106-preview",
         messages=[
-            {"role": "system", "content": "You are a helpful assistant for Stax Bill."},
+            {"role": "system", "content": "You are a helpful assistant for Stax Bill. Only answer questions related to Stax Bill."},
             {"role": "user", "content": prompt}
         ],
         temperature=0.3,
@@ -51,7 +60,7 @@ def generate_answer(query, context):
 # Streamlit UI
 st.set_page_config(page_title="Stax Bill Copilot", layout="centered")
 st.title("Stax Bill Copilot Agent")
-st.write("Ask a question about Stax Bill and get an answer powered by GPT-4 Turbo.")
+st.write("Ask a question about Stax Bill")
 
 user_query = st.text_input("🔍 Enter your question:")
 
